@@ -1,0 +1,4 @@
+res://tutorial_brackeys/game.tscn
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://assets/sprites/player.gd
